@@ -9,9 +9,9 @@ public class Main {
         System.out.println(b1 + b2); // сумма вычисляется
         System.out.println(b1 * b2);
 
-        int ByteToInt1 = b1;
-        int ByteToInt2 = b2;
-        int sum = ByteToInt1 + ByteToInt2;
+        int byteToInt1 = b1;
+        int byteToInt2 = b2;
+        int sum = byteToInt1 + byteToInt2;
         System.out.println(sum);
 
         short s1 = 30000;
